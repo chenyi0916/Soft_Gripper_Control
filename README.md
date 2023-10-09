@@ -1,2 +1,2 @@
-This is my independent study project during my master program study. 
+
 Lip Inspired Passive Jamming Gripper is a soft grip that can adapt to objects with complex shapes and grasp objects through re-grasping motions. However, its performance in grasping soft objects can continue to improve. Therefore, our project aims to improve the performance of the Lip Inspired Passive Jamming gripper when grasping different deformable objects by adjusting the jaw angle through the feedback of the motor# Soft_Gripper_Control
