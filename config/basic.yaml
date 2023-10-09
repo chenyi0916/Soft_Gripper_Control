@@ -1,0 +1,12 @@
+# You can find control table of Dynamixel on emanual (http://emanual.robotis.com/#control-table)
+# Control table item has to be set Camel_Case and not included whitespace
+# You are supposed to set at least Dynamixel ID
+robot1/soft_gripper_jaw  :   # GRIPPER
+  ID: 182
+  Return_Delay_Time     :   0
+  Operating_Mode        :    16 
+  # Shutdown              :   48
+  # Homing_Offset        :    1588 # 2048 - 460
+  # Current_Limit: 1193
+  # Profile_Acceleration: 50
+  # Profile_Velocity: 30
